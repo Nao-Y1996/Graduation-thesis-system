@@ -1,0 +1,2 @@
+hsr_handing:pre_experiment:sim_handing
+-DCATKIN_DEVEL_PREFIX=/home/naoyamada/catkin_ws3/devel -DCMAKE_INSTALL_PREFIX=/home/naoyamada/catkin_ws3/install -G Unix Makefiles
